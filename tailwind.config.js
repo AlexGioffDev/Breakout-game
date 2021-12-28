@@ -21,7 +21,7 @@ module.exports = {
         }
       },
       animation: {
-        enter: "enter 2s ease-in 0s 1 normal forwards"
+        enter: "enter 1.5s ease-in 0s 1 normal forwards"
       }
     },
   },
